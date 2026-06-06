@@ -1,0 +1,9 @@
+# Core runtime
+pydantic>=2.5
+pandas>=2.0
+
+# LLM backend (optional at runtime; the heuristic backend needs none of this).
+# The pipeline, tests, and CLI all run without an API key using the offline
+# heuristic backend. Install these to enable the Claude (Anthropic) backend.
+anthropic>=0.40
+python-dotenv>=1.0

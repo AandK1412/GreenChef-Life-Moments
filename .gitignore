@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Secrets / local config
+.env
+
+# Generated data & figures (regenerate with scripts/)
+data/classified_output.csv
+data/figures/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
