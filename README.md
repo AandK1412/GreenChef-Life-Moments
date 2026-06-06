@@ -264,9 +264,9 @@ report, the methodology was validated against a 20% manually-reviewed sample at
 
 ## Team
 
-Vignesh Anand · Yash Mahadik · Anrunya Patole · Kshama Purohit
-MSBA-GBA Capstone · Pamplin College of Business, Virginia Tech
-Faculty Advisor: Prof. Sean Raines · Sponsor: Green Chef / HelloFresh SE
+· Vignesh Anand · Yash Mahadik · Anrunya Patole · Kshama Purohit , MSBA-GBA Capstone 
+· Pamplin College of Business, Virginia Tech,Faculty Advisor: Prof. Sean Raines 
+· Sponsor: Green Chef / HelloFresh SE
 
 ---
 
